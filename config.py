@@ -1,7 +1,7 @@
-# Токен бота, string
-token = "5265562585:AAEw2CtH-10A8E1hjZ1z8TuYBuvA8F6iimk"
-# id админа в integer
-admin = 5198110160
+import os
+
+ token = os.environ.get("API_TOKEN")
+ admin = os.environ.get(5198110160)
 
 # Настройка работы через проксю
 REQUEST_KWARGS={
