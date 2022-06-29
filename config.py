@@ -1,7 +1,7 @@
 # Токен бота, string
-token = ""
+token = "5265562585:AAEw2CtH-10A8E1hjZ1z8TuYBuvA8F6iimk"
 # id админа в integer
-admin = 
+admin = 5198110160
 
 # Настройка работы через проксю
 REQUEST_KWARGS={
